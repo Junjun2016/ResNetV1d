@@ -1,0 +1,13 @@
+method, log time, mIoU last, mAcc last, last eval, mIoU best, mAcc best, best eval
+deeplabv3_r101-v1d-d8_480x480_80k_pascal_context, 20210827_160302.log.json, 0, 0, 0, 0, 0, 0
+deeplabv3_r101-v1d-d8_512x1024_80k_cityscapes, 20210826_135900.log.json, 68.63, 78.58000000000001, 5, 70.99, 80.36, 4
+deeplabv3_r101-v1d-d8_512x512_160k_ade20k, 20210826_135813.log.json, 31.7, 42.13, 3, 31.7, 42.13, 3
+deeplabv3_r101-v1d-d8_512x512_40k_voc12aug, 20210827_010021.log.json, 78.02, 86.61, 10, 78.02, 86.61, 10
+deeplabv3_r101-v1d-d8_769x769_80k_cityscapes, 20210826_232403.log.json, 74.89, 82.76, 6, 74.89, 82.76, 6
+deeplabv3_r101-v1d-d8_769x769_80k_cityscapes, 20210827_193802.log.json, 0, 0, 0, 0, 0, 0
+pspnet_r101-v1d-d8_480x480_80k_pascal_context, 20210826_232511.log.json, 44.36, 54.49, 9, 44.64, 55.35, 8
+pspnet_r101-v1d-d8_480x480_80k_pascal_context_59, 20210826_232403.log.json, 49.36, 60.25, 9, 49.61, 61.07, 7
+pspnet_r101-v1d-d8_512x1024_80k_cityscapes, 20210826_232511.log.json, 77.96, 84.88, 9, 77.96, 84.88, 9
+pspnet_r101-v1d-d8_512x512_160k_ade20k, 20210826_074518.log.json, 31.64, 42.61, 4, 31.64, 42.61, 4
+pspnet_r101-v1d-d8_512x512_40k_voc12aug, 20210825_152828.log.json, 76.55999999999999, 85.08, 10, 77.17, 85.89, 9
+pspnet_r101-v1d-d8_769x769_80k_cityscapes, 20210825_152757.log.json, 78.75999999999999, 87.33, 10, 78.75999999999999, 87.33, 10
